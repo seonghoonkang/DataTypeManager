@@ -1,6 +1,7 @@
 # DynamicCompiler
 
 origin document: https://www.evernote.com/shard/s653/sh/32659bb9-8104-ec0f-56f9-17027b77b474/3b29c73b8849c500e15e9b145ef8c224
+
 Abstract
 ---
 - 'Data Type Manager' 는 Action APIs Executor 에서 Producer와 Consumer 사이의 데이터 교환에 필요한 Java Object의 Data Type을 관리한다.
