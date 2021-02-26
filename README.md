@@ -9,7 +9,7 @@ Abstract
 -  타입정의서는 Parser에 의해 Data Type Metadata와 Java Object Type 변환에 필요한 RowData로 분리된다.
 - RowData는 Java Byte Code 로 컴파일 되고 class-path하위에 Metadata에 정의된 패키지와 타입이름으로 저장된다.
 
-Subject
+Features
 ---
 1. Parser - 타입 정의서 규약에 따라 작성된 JSON/XML등의 문서를  Metadata와 Row Data 로 변환한다.
     - Standardize Data Type protocol for JSON/XML
