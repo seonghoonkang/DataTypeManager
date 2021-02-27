@@ -1,6 +1,5 @@
 package sandbox.velocity.example;
 
-
 import org.junit.jupiter.api.*;
 import sandbox.velocity.example.module.Compiler;
 import sandbox.velocity.example.module.Transformer;
